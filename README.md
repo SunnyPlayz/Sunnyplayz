@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning computer engineering at mississippi state
+- 👯 I’m looking to collaborate on software
+
+- ⚡ Fun fact: I have been to italy
